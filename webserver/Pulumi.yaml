@@ -1,0 +1,6 @@
+name: ec2project
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: EC2withPulumi
